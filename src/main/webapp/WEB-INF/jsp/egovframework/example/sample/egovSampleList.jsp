@@ -91,7 +91,7 @@
         	<!-- List -->
         	<div id="table">
         		<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="카테고리ID, 케테고리명, 사용여부, Description, 등록자 표시하는 테이블">
-        			<caption style="visibility:hidden">카테고리ID323 222, 케테고리명, 사용여부, Description, 등록자 표시하는 테이블</caption>
+        			<caption style="visibility:hidden">카테고리IDddddee, 케테고리명, 사용여부, Description, 등록자 표시하는 테이블</caption>
         			<colgroup>
         				<col width="40"/>
         				<col width="100"/>
@@ -101,7 +101,7 @@
         				<col width="60"/>
         			</colgroup>
         			<tr>
-        				<th align="center">No</th>
+        				<th align="center">No</th> 
         				<th align="center"><spring:message code="title.sample.id" /></th>
         				<th align="center"><spring:message code="title.sample.name" /></th>
         				<th align="center"><spring:message code="title.sample.useYn" /></th>
