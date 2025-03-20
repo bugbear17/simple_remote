@@ -101,7 +101,7 @@
         				<col width="60"/>
         			</colgroup>
         			<tr>
-        				<th align="center">No</th>
+        				<th align="center">No</th> 
         				<th align="center"><spring:message code="title.sample.id" /></th>
         				<th align="center"><spring:message code="title.sample.name" /></th>
         				<th align="center"><spring:message code="title.sample.useYn" /></th>
