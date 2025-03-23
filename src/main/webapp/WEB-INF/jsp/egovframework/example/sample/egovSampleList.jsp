@@ -64,7 +64,7 @@
         	<!-- 타이틀 -->
         	<div id="title">
         		<ul>
-        			<li>병합 커밋 생성 git 테스트<img src="<c:url value='/images/egovframework/example/title_dot.gif'/>" alt=""/><spring:message code="list.sample" /></li>
+        			<li>병합 커밋 생성 git 테스트222<img src="<c:url value='/images/egovframework/example/title_dot.gif'/>" alt=""/><spring:message code="list.sample" /></li>
         		</ul>
         	</div>
         	<!-- // 타이틀 -->
