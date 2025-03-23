@@ -64,7 +64,7 @@
         	<!-- 타이틀 -->
         	<div id="title">
         		<ul>
-        			<li><img src="<c:url value='/images/egovframework/example/title_dot.gif'/>" alt=""/><spring:message code="list.sample" /></li>
+        			<li>리스트심플 <img src="<c:url value='/images/egovframework/example/title_dot.gif'/>" alt=""/><spring:message code="list.sample" /></li>
         		</ul>
         	</div>
         	<!-- // 타이틀 -->
@@ -91,7 +91,7 @@
         	<!-- List -->
         	<div id="table">
         		<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="카테고리ID, 케테고리명, 사용여부, Description, 등록자 표시하는 테이블">
-        			<caption style="visibility:hidden">카테고리ID323 222, 케테고리명, 사용여부, Description, 등록자 표시하는 테이블</caption>
+        			<caption style="visibility:hidden">카테고리ID323 병합테스트, 케테고리명, 사용여부, Description, 등록자 표시하는 테이블</caption>
         			<colgroup>
         				<col width="40"/>
         				<col width="100"/>
