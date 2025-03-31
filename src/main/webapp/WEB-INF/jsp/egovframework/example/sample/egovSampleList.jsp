@@ -73,7 +73,7 @@
         			<li>
         			    <label for="searchCondition" style="visibility:hidden;"><spring:message code="search.choose" /></label>
         				<form:select path="searchCondition" cssClass="use">
-        					<form:option value="1" label="Name" />
+        					<form:option value="1" label="Name" />여기 변경
         					<form:option value="0" label="ID" />
         				</form:select>
         			</li>
